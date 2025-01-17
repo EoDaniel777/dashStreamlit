@@ -1,1 +1,1 @@
-# dashStreamlit
+# Dashboard base para futuros dashboards
