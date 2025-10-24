@@ -21,7 +21,7 @@ def fetch_data_from_api(url, user, password):
         return None
 
 # URL da API e credenciais
-api_url = "http://apisenarpe.dematech.io:8051/api/framework/v1/consultaSQLServer/RealizaConsulta/WS.ORC.REAL.DASH/1/T?"
+api_url = "http://apisenarpe2.dematech.io:8051/api/framework/v1/consultaSQLServer/RealizaConsulta/WS.ORC.REAL.DASH/1/T"
 api_user = st.secrets["API_USER"]
 api_password = st.secrets["API_PASSWORD"]
 
